@@ -1,3 +1,5 @@
+~
+
 uto-save-list
 
 tramp
@@ -80,4 +82,4 @@ flycheck_*.el
 
 # network security
 
-/network-security.data
+/network-security.dat`a
